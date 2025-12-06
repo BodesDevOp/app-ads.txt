@@ -1,4 +1,0 @@
-# AdMob app-ads.txt file
-# For https://bodesdevop.github.io/app-ads.txt
-
-google.com, pub-4794286091581941, DIRECT, f08c47fec0942fa0
